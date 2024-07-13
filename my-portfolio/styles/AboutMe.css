@@ -1,0 +1,23 @@
+
+.about-me {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .about-me h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: rebeccapurple;
+  }
+  
+  .about-me p {
+    font-size: 1.2em;
+  }
+  .about-me h3 span {
+    font-weight: bold; /* Make the text inside <span> bold */
+    color: blue; /* Set the text color to blue */
+  }
+  .about-me h3 {
+    color: brown;
+
+  }

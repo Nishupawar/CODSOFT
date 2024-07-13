@@ -1,0 +1,34 @@
+
+.contact {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .contact h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .contact form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact label {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+  }
+  
+  .contact input, .contact textarea {
+    padding: 10px;
+    font-size: 1em;
+    margin-bottom: 20px;
+    width: 300px;
+  }
+  
+  .contact button {
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+  
